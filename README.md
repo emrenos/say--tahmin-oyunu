@@ -21,4 +21,4 @@ Bu proje, C# programlama dili ve Windows Forms arayüzü kullanılarak geliştir
 
 ## Ekran Görüntüleri
 <img src="https://github.com/emrenos/sayi-tahmin-oyunu/blob/main/sayiTahmin-1.png">
-<img src="https://github.com/emrenos/sayi-tahmin-oyunu/blob/main/sayiTahmin-2.png>
+<img src="https://github.com/emrenos/sayi-tahmin-oyunu/blob/main/sayiTahmin-2.png">
